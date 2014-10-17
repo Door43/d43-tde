@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tde:home|Door43 (tde)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tde|d43-tde repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tde/archive/master.zip|d43-tde.zip]]
+
+**Recent Changes**
+{{changes>ns = tde}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tde|Ethnologue data]]
+
